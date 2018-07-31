@@ -1,0 +1,77 @@
+/** {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  font: 16px Roboto;
+  color: #333;
+}
+
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+  padding: 5rem;
+}
+
+input {
+  font: inherit;
+  color: inherit;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+header h1 {
+  margin-bottom: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+header a {
+  margin: 1rem;
+}
+
+form div {
+  margin: 1rem 0;
+}
+
+form div > label,
+form div > input,
+form div > select {
+  display: inline-block;
+}
+
+form div:not(.inline) label {
+  width: 10rem;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  border: 1px solid black;
+  padding: .5rem 1rem;
+  text-align: center;
+}
+
+footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  margin: 1.5rem 0;
+  color: #aaa;
+}*/
